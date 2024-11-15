@@ -1,4 +1,4 @@
-# *Fiap - GlobalSolution LessPollu*
+# *CSharp - GlobalSolution LessPollu*
 
 ### Sumário
 - [Objetivo](#objetivo)
@@ -10,6 +10,7 @@
 
 ## Objetivo
 O projeto visa criar uma solução que monitore, em tempo real, a emissão de gases poluentes de indústrias, fornecendo dados sobre o impacto ambiental e apoiando a adoção de práticas mais sustentáveis. Além disso, busca-se que as indústrias tenham incentivos para adotar metas de emissão reduzida e para trabalhar em conformidade com regulamentações ambientais.
+Facilitar a coleta, o monitoramento e a análise de dados relacionados a processos energéticos sustentáveis. A API ajudará empresas e stakeholders a compreender e otimizar o uso de fontes renováveis de energia.
 
 ## Tecnologias e Ferramentas
 - **Sensores IoT:** Dispositivos IoT seriam instalados em fábricas para monitoramento de poluentes como dióxido de carbono (CO₂), óxidos de nitrogênio (NOx), monóxido de carbono (CO), entre outros.
