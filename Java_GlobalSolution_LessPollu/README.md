@@ -1,4 +1,4 @@
-# *Fiap - GlobalSolution LessPollu*
+# *Java - GlobalSolution LessPollu*
 
 ### Sumário
 - [Objetivo](#objetivo)
