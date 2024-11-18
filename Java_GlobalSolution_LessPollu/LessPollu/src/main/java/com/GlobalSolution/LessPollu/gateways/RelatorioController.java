@@ -71,4 +71,5 @@ public class RelatorioController {
             throw new RuntimeException("Erro inesperado ao excluir o relatorio.", e);
         }
     }
+
 }

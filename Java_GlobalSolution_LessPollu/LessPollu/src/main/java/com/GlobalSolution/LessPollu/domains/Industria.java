@@ -27,7 +27,7 @@ public class Industria {
     private String Nome;
 
     @NotNull(message = "O campo CEP não pode ser deixado em branco")
-    @Size(min = 8, max = 8, message = "CEP must be 8 digits")
+    @Size(min = 8, max = 8, message = "O CEP deve ter 8 dígitos")
     private String CEP;
 
     @NotBlank(message = "O campo Tipo não pode ser deixado em branco")
