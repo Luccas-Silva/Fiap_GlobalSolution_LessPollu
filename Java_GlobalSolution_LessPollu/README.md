@@ -38,3 +38,27 @@ Interface para Visualização de Dados: Dashboards que permitam a visualização
 - **Adesão das Indústrias:** Algumas indústrias podem relutar em adotar o sistema devido ao custo inicial. Para superar isso, o modelo de negócio pode incluir uma fase inicial gratuita ou com descontos em troca de parcerias.
 - **Precisão dos Dados:** Emissões podem variar conforme o tipo de produção e a localização geográfica. Sensores calibrados e algoritmos avançados são essenciais para garantir precisão.
 - **Privacidade e Segurança dos Dados:** O uso de blockchain e criptografia pode fortalecer a segurança dos dados e permitir que empresas confiem no sistema sem temer o vazamento de informações confidenciais.
+
+
+## Diagrama de Classes
+
+## Instrução para rodar a aplicação
+
+Para configurar sua aplicação, acesse o arquivo `application.properties`. Neste arquivo, você encontrará propriedades que permitem personalizar o comportamento da sua aplicação.
+Para conectar ao banco de dados, localize as propriedades username password. Nestas propriedades, insira respectivamente o nome de usuário e a senha para acessar o seu banco de dados. 
+
+### Exemplo:
+```
+{
+  datasource:
+  url: jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl
+  username: usuario
+  password: senha
+  driver-class-name: oracle.jdbc.OracleDriver
+  jpa:
+  hibernate:
+  ddl-auto: create
+  database-platform: org.hibernate.dialect.OracleDialect
+}
+```
+Após realizar as alterações, salve o arquivo e execute a aplicação. A aplicação utilizará as novas credenciais para se conectar ao banco de dados.
