@@ -37,3 +37,7 @@ Interface para Visualização de Dados: Dashboards que permitam a visualização
 - **Adesão das Indústrias:** Algumas indústrias podem relutar em adotar o sistema devido ao custo inicial. Para superar isso, o modelo de negócio pode incluir uma fase inicial gratuita ou com descontos em troca de parcerias.
 - **Precisão dos Dados:** Emissões podem variar conforme o tipo de produção e a localização geográfica. Sensores calibrados e algoritmos avançados são essenciais para garantir precisão.
 - **Privacidade e Segurança dos Dados:** O uso de blockchain e criptografia pode fortalecer a segurança dos dados e permitir que empresas confiem no sistema sem temer o vazamento de informações confidenciais.
+
+## Diagrama de Classes
+![image](https://github.com/user-attachments/assets/10392227-d40f-480f-b1f2-b466b3f8d61c)
+
