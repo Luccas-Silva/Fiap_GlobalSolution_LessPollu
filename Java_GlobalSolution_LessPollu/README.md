@@ -7,6 +7,8 @@
 - [Modelo de Negócio](#modelo-de-negócio)
 - [Impacto Socioambiental](#impacto-socioambiental)
 - [Desafios e Soluções](#desafios-e-soluções)
+- [Diagrama de Classes](#diagrama-de-classes)
+- [Instrução para rodar a aplicação](#instrução-para-rodar-a-aplicação)
 
 ## Objetivo
 O projeto visa criar uma solução que monitore, em tempo real, a emissão de gases poluentes de indústrias, fornecendo dados sobre o impacto ambiental e apoiando a adoção de práticas mais sustentáveis. Além disso, busca-se que as indústrias tenham incentivos para adotar metas de emissão reduzida e para trabalhar em conformidade com regulamentações ambientais.
@@ -39,8 +41,9 @@ Interface para Visualização de Dados: Dashboards que permitam a visualização
 - **Precisão dos Dados:** Emissões podem variar conforme o tipo de produção e a localização geográfica. Sensores calibrados e algoritmos avançados são essenciais para garantir precisão.
 - **Privacidade e Segurança dos Dados:** O uso de blockchain e criptografia pode fortalecer a segurança dos dados e permitir que empresas confiem no sistema sem temer o vazamento de informações confidenciais.
 
-
 ## Diagrama de Classes
+![image](https://github.com/user-attachments/assets/30cc37ac-bdd8-4759-9951-a58003ac01da)
+![image](https://github.com/user-attachments/assets/7fbf4119-1dd1-4baf-bdc6-0ba222f7fbb1)
 
 ## Instrução para rodar a aplicação
 
