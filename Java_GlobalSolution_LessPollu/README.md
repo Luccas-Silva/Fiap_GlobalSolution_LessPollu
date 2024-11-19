@@ -42,7 +42,7 @@ Interface para Visualização de Dados: Dashboards que permitam a visualização
 - **Privacidade e Segurança dos Dados:** O uso de blockchain e criptografia pode fortalecer a segurança dos dados e permitir que empresas confiem no sistema sem temer o vazamento de informações confidenciais.
 
 ## Diagrama de Classes
-![image](https://github.com/user-attachments/assets/30cc37ac-bdd8-4759-9951-a58003ac01da)
+![image](https://github.com/user-attachments/assets/5712457d-a3ef-4ef5-b247-bc16c2a708f0)
 ![image](https://github.com/user-attachments/assets/7fbf4119-1dd1-4baf-bdc6-0ba222f7fbb1)
 
 ## Instrução para rodar a aplicação
