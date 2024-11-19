@@ -22,7 +22,7 @@ public class Relatorio {
     @GeneratedValue(strategy = GenerationType.UUID)
     private String Id;
 
-    @NotBlank(message = "O campo Data de Geração não pode ser deixado em branco")
+    @NotNull(message = "O campo Data de Geração não pode ser deixado em branco")
     @PastOrPresent(message = "O campo Data de Geração não pode ser uma Data do Futuro")
     private LocalDate dataGeracao;
 
