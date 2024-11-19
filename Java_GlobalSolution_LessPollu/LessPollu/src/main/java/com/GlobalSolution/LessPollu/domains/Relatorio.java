@@ -34,10 +34,10 @@ public class Relatorio {
 
     private String Observacoes;
 
-    @OneToOne(cascade = CascadeType.ALL)
+    @ManyToOne(cascade = CascadeType.ALL)
     private Usuario usuario;
 
-    @OneToOne(cascade = CascadeType.ALL)
+    @ManyToOne(cascade = CascadeType.ALL)
     private Industria industria;
 
 }
