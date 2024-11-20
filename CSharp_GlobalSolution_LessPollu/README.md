@@ -42,7 +42,7 @@ Interface para Visualização de Dados: Dashboards que permitam a visualização
 ![image](https://github.com/user-attachments/assets/10392227-d40f-480f-b1f2-b466b3f8d61c)
 
 ## Instrução para rodar a aplicação
-Para configurar sua aplicação, acesse o arquivo `application.properties`. Neste arquivo, você encontrará propriedades que permitem personalizar o comportamento da sua aplicação.
+Para configurar sua aplicação, acesse o arquivo `Program.cs`. Neste arquivo, você encontrará propriedades que permitem personalizar o comportamento da sua aplicação.
 Para conectar ao banco de dados, localize as propriedades username password. Nestas propriedades, insira respectivamente o nome de usuário e a senha para acessar o seu banco de dados. 
 
 ### Exemplo:
