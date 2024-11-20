@@ -43,20 +43,15 @@ Interface para Visualização de Dados: Dashboards que permitam a visualização
 
 ## Instrução para rodar a aplicação
 Para configurar sua aplicação, acesse o arquivo `Program.cs`. Neste arquivo, você encontrará propriedades que permitem personalizar o comportamento da sua aplicação.
-Para conectar ao banco de dados, localize as propriedades username password. Nestas propriedades, insira respectivamente o nome de usuário e a senha para acessar o seu banco de dados. 
+Para conectar ao banco de dados, localize as propriedades UserID Password. Nestas propriedades, insira respectivamente o id de usuário e a senha para acessar o seu banco de dados. 
 
 ### Exemplo:
 ```
 {
-  datasource:
-  url: jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl
-  username: usuario
-  password: senha
-  driver-class-name: oracle.jdbc.OracleDriver
-  jpa:
-  hibernate:
-  ddl-auto: create
-  database-platform: org.hibernate.dialect.OracleDialect
+  // Configuracao da string de conexao
+builder.Services.AddDbContext<ApplicationContext>(options => {
+    options.UseOracle("Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=oracle.fiap.com.br)(PORT=1521))) (CONNECT_DATA=(SERVER=DEDICATED)(SID=ORCL)));User Id=********;Password=******;");
+});
 }
 ```
 Após realizar as alterações, salve o arquivo e execute a aplicação. A aplicação utilizará as novas credenciais para se conectar ao banco de dados.
