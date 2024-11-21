@@ -37,7 +37,5 @@
         </dd>
     </dl>
 </div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
-</div>
+<div><a class="btn btn-outline-warning fw-bold" asp-action="Edit" asp-route-id="@Model?.Id">Edit</a></div>
+<div><a class="btn btn-outline-secondary fw-bold mt-3" asp-action="Index">Back to List</a></div>

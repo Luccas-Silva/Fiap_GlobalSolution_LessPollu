@@ -44,9 +44,9 @@
                 @Html.DisplayFor(modelItem => item.Observacoes)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a class="btn btn-outline-warning fw-bold" asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
+                <a class="btn btn-outline-info fw-bold" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                <a class="btn btn-outline-danger fw-bold" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
 }

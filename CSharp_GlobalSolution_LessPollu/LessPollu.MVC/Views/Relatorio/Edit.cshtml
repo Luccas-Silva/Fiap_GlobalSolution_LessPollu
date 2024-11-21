@@ -15,34 +15,34 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Id" />
             <div class="form-group">
-                <label asp-for="dataGeracao" class="control-label"></label>
+                <label asp-for="dataGeracao" class="control-label fw-bold"></label>
                 <input asp-for="dataGeracao" class="form-control" />
                 <span asp-validation-for="dataGeracao" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="periodoCobertura" class="control-label"></label>
+                <label asp-for="periodoCobertura" class="control-label fw-bold"></label>
                 <input asp-for="periodoCobertura" class="form-control" />
                 <span asp-validation-for="periodoCobertura" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Metricas" class="control-label"></label>
+                <label asp-for="Metricas" class="control-label fw-bold"></label>
                 <input asp-for="Metricas" class="form-control" />
                 <span asp-validation-for="Metricas" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Observacoes" class="control-label"></label>
+                <label asp-for="Observacoes" class="control-label fw-bold"></label>
                 <input asp-for="Observacoes" class="form-control" />
                 <span asp-validation-for="Observacoes" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+                <input type="submit" value="Save" class="btn btn-outline-success fw-bold mt-3" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a class="btn btn-outline-secondary fw-bold mt-3" asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {

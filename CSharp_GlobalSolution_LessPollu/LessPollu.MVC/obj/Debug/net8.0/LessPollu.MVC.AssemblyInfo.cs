@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LessPollu.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1decf315f6f30a8bbf322b9508e58acc3d78bd67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d22606a170460908f570200756a9ba4b7db21ebc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LessPollu.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LessPollu.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
