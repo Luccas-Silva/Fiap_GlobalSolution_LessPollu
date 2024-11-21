@@ -54,6 +54,7 @@ public class RelatorioController {
         return ResponseEntity.ok(relatorios);
     }
 
+
     @PostMapping
     public ResponseEntity<Relatorio> createRelatorio(@RequestBody Relatorio relatorio) {
         Relatorio relatorioSalvo = relatorioRepository.save(relatorio);
