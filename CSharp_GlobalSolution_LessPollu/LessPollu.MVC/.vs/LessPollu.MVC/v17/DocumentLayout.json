@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\models\\relatorioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:models\\relatorioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\migrations\\20241121041131_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:migrations\\20241121041131_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\models\\industriaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:models\\industriaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\views\\industria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:views\\industria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\models\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:models\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\appdata\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:appdata\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|c:\\users\\lucccas silva\\onedrive\\\u00E1rea de trabalho\\programas\\fiap_globalsolution_lesspollu\\csharp_globalsolution_lesspollu\\lesspollu.mvc\\controllers\\industriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2650EE86-2710-442B-9433-2B1696E6B812}|LessPollu.MVC.csproj|solutionrelative:controllers\\industriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +42,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Views\\Industria\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Industria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Views\\Industria\\Index.cshtml",
+              "RelativeToolTip": "Views\\Industria\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:21:20.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20241121041131_initdb.cs",
-              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Migrations\\20241121041131_initdb.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241121041131_initdb.cs",
-              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Migrations\\20241121041131_initdb.cs",
-              "RelativeToolTip": "Migrations\\20241121041131_initdb.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:11:32.812Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:19:59.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RelatorioEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Models\\RelatorioEntity.cs",
-              "RelativeDocumentMoniker": "Models\\RelatorioEntity.cs",
-              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Models\\RelatorioEntity.cs",
-              "RelativeToolTip": "Models\\RelatorioEntity.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T03:41:45.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IndustriaEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Models\\IndustriaEntity.cs",
-              "RelativeDocumentMoniker": "Models\\IndustriaEntity.cs",
-              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Models\\IndustriaEntity.cs",
-              "RelativeToolTip": "Models\\IndustriaEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T03:42:10.24Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:19:50.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsuarioEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Models\\UsuarioEntity.cs",
-              "RelativeDocumentMoniker": "Models\\UsuarioEntity.cs",
-              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Models\\UsuarioEntity.cs",
-              "RelativeToolTip": "Models\\UsuarioEntity.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABPAAAA",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T03:41:13.569Z",
+              "WhenOpened": "2024-11-21T04:19:14.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\AppData\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "AppData\\ApplicationContext.cs",
-              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\AppData\\ApplicationContext.cs",
-              "RelativeToolTip": "AppData\\ApplicationContext.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAA9AAAA",
+              "Title": "RelatorioController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Controllers\\RelatorioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RelatorioController.cs",
+              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Controllers\\RelatorioController.cs",
+              "RelativeToolTip": "Controllers\\RelatorioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T03:35:35.766Z",
+              "WhenOpened": "2024-11-21T04:18:26.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IndustriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Controllers\\IndustriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IndustriaController.cs",
+              "ToolTip": "C:\\Users\\Lucccas Silva\\OneDrive\\\u00C1rea de Trabalho\\Programas\\Fiap_GlobalSolution_LessPollu\\CSharp_GlobalSolution_LessPollu\\LessPollu.MVC\\Controllers\\IndustriaController.cs",
+              "RelativeToolTip": "Controllers\\IndustriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:17:31.671Z",
               "EditorCaption": ""
             }
           ]
